@@ -133,7 +133,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Agaran (Leo)**
+**Agaran**
 
 B.Tech Artificial Intelligence & Data Science  
 Velammal Engineering College
